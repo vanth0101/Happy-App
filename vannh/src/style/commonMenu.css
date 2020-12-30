@@ -1,0 +1,6 @@
+.menu{
+    height: 100%;
+    width: 30%;
+    max-width: 150px;
+    border-right: 1px solid black;
+}

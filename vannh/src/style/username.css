@@ -1,0 +1,18 @@
+.account{
+    width: 20%;
+    height: 20px;
+    max-width: 50px;
+}
+
+    .account a{
+        margin-right: 5px;
+    }
+
+    .account img{
+        width: 30%;
+    }
+
+    .account :hover{
+        cursor: pointer;
+        text-decoration: underline;
+    }
